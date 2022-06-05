@@ -1,6 +1,7 @@
 
 # King County House Price Prediction
 
+![dataset-cover](https://user-images.githubusercontent.com/103409242/172045788-e5b8d7dc-c0d5-4d61-97e6-ce5f146dbc57.jpeg)
 
 **Authors**:<font color='Blue'> Aswathi Sasikumar </font>
 
