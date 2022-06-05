@@ -46,7 +46,7 @@ Square footage, no of bedrooms and bathrooms are the best predictors of a house'
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./student.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
 For any additional questions, please contact ** Aswathi Sasikumar at [kukkuaswathi@gmail.com](mailto:alison.kukkuaswathi@gmail.com)
 
