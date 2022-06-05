@@ -25,10 +25,18 @@ Exploratory data analysis was used to analyse the data and to draw conclusions a
 
 The Findings of the analysis are detailed below:
 Factors affecting price of a house are sqft_living,no of bedrooms and no of bathrooms.Model was developed using OLS statsmodels with price as dependent variable and sqft_living,bedrooms,bathrooms as independent variables.
+
+
 ![sqft](https://user-images.githubusercontent.com/103409242/172045708-7262dca2-958c-4a04-8035-b038585fabe1.png)
 
-![corr](http![Screen Shot 2022-06-05 at 8 12 31 pm](https://user-images.githubusercontent.com/103409242/172045719-c5572be2-cd23-4803-af88-4aa5fbe953ae.png)
-s://user-images.githubusercontent.com/103409242/172045710-3fa27271-de9a-4481-b3ef-0d49c8e0159d.png)
+
+![corr](https://user-images.githubusercontent.com/103409242/172045761-b2370fe5-f24e-4701-89af-a5882d7b3118.png)
+
+
+![Screen Shot 2022-06-05 at 8 12 31 pm](https://user-images.githubusercontent.com/103409242/172045769-7c20648a-94dc-4bc1-bc45-bd317a52dd5f.png)
+
+
+
 
 ## Conclusions
 
